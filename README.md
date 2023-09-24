@@ -13,3 +13,5 @@ The main objectives of this EDA are:
 - Correlation Analysis: Explored correlations between various variables to understand relationships.
 - Comparative Analysis: Compared statistics across different locations to identify trends and outliers.
 - Time Series Analysis: Visualized the progression of total cases and total deaths over time.
+
+#### This is one of my tasks as a Data Science Intern at the virtual internship from [**Asterisc Technocrat**](https://www.linkedin.com/company/asterisc-technocrat/).
